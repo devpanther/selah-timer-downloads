@@ -1,0 +1,19 @@
+{
+  "version": "0.1.5",
+  "notes": "- Selah Timer: service timer with plans, projector output, phone remote and release setup\n- In-app updates from a public downloads repo, signed releases, self-hosted Mac runner setup\n- Waiting on the Up next screen is the default when an item ends\n- End service now from any item; 12 or 24 hour clock setting\n- Setup: copy the runner program from Selah Live's runner instead of downloading it; show download progress and resume\n- Setup: copy bin/runsvc.sh with the runner, and finish the service step when run again\n- Projector output only on a second display; says so when none is connected\n- Service times: plans without a start time, real-clock start column, warning when a service runs into the next\n- Time up designs A, C and G; clock items; bigger item titles",
+  "pub_date": "2026-11-26T10:02:50.226Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSUg1WmViSEM2RE9WM3NySmdSZHBsZzRUOTlIRnJyekk5OVZhT1BFYjZtb2JKcHJrd3Z6V2FQZVRlRXJiQzB6UnVkODRkSi9tNE9rbFVwK2NFcVgrNHA1Tnh4TmRhUnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MjU5CWZpbGU6U2VsYWggVGltZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS41CkFZSXU1dUdvRCtFVmR4NzY1SktBSWxVSXJ5Mzl0MVQ5SUNZRlVRbUk3dWhMUHRSYVJic296akhKTHlZT01YSmFhNk8yaHRVKzNRemVtc0U2R2Y5UUNnPT0K",
+      "url": "https://raw.githubusercontent.com/devpanther/selah-timer-downloads/main/SelahTimer-mac.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSUg1WmViSEM2RE9WM3NySmdSZHBsZzRUOTlIRnJyekk5OVZhT1BFYjZtb2JKcHJrd3Z6V2FQZVRlRXJiQzB6UnVkODRkSi9tNE9rbFVwK2NFcVgrNHA1Tnh4TmRhUnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MjU5CWZpbGU6U2VsYWggVGltZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuMS41CkFZSXU1dUdvRCtFVmR4NzY1SktBSWxVSXJ5Mzl0MVQ5SUNZRlVRbUk3dWhMUHRSYVJic296akhKTHlZT01YSmFhNk8yaHRVKzNRemVtc0U2R2Y5UUNnPT0K",
+      "url": "https://raw.githubusercontent.com/devpanther/selah-timer-downloads/main/SelahTimer-mac.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSUg1WmViSEM2REdIMXJiUnJyK1RCcGMzK1RPb3BjaEF6Q3lPdlhTc2x1OVIwQ3VCM2FNa3Nya1A5NUFiTGlXTzEzNHBmMU1GODRiZnIwV2FPL3FkYTVwcTRlRXpWc3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg3MzU1CWZpbGU6U2VsYWggVGltZXJfMC4xLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41CmhBZk5sZzNBZDN6Q2JTdVdBK3gxbk1lTGovaTg0c3BrL0V4UHE2SXhxNys0ajd6bUwyVzMzdXJlQjdMM21YcWdwdEY3TjBzcGswRzBzaFRNamo2NURRPT0K",
+      "url": "https://raw.githubusercontent.com/devpanther/selah-timer-downloads/main/SelahTimer-windows-setup.exe"
+    }
+  }
+}
